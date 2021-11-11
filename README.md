@@ -9,5 +9,6 @@ Dependencies:
 •	Pymysql (to use MySQL as database) [using sqlite3 as default]
 
 All the above are python libraries you need to install using 'pip intall' command
+or by using command pip install -r requirements.txt
 
 Project_name = e_food, App name = main
