@@ -1,4 +1,4 @@
-django
-django-crispy-forms
-pillow
-pymysql
+django==3.2.8
+django-crispy-forms==1.13.0
+pillow==7.0.0
+pymysql==1.0.2
