@@ -10,5 +10,4 @@ Dependencies:
 
 All the above are python libraries you need to install using 'pip intall' command
 
-Project_name = e_food
-App name = main
+Project_name = e_food, App name = main
